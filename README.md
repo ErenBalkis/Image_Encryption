@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B)
 ![Security](https://img.shields.io/badge/Security-Cryptography-green)
-![License](https://img.shields.io/badge/License-MIT-grey)
 
 > **A comprehensive, educational web application for visualizing cryptographic algorithms on images, wrapped in a striking Cyberpunk/Hacker aesthetic.**
 
