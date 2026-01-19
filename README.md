@@ -99,6 +99,14 @@ This tool is specifically designed for **Information Security** and **Cryptograp
 
 ---
 
+<p align="center">
+  <img src="screenshots/image-enc-1.png" width="45%" />
+  <img src="screenshots/encrypted.png" width="45%" />
+</p>
+file:///home/eren/Resimler/image-enc-1.png
+
+---
+
 ## 🔮 Future Improvements
 
 * [ ] Decryption module for authorized users.
