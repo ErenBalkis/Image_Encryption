@@ -98,12 +98,19 @@ This tool is specifically designed for **Information Security** and **Cryptograp
 ```
 
 ---
+## 📸 Screenshots
+
+Interface:
+
+<img src="screenshots/interface.png" width="45%" />
+
+---
+AES-CBC vs AES-ECB
 
 <p align="center">
-  <img src="screenshots/image-enc-1.png" width="45%" />
-  <img src="screenshots/encrypted.png" width="45%" />
+  <img src="screenshots/aes-cbc.png" width="45%" />
+  <img src="screenshots/aes-ecb.png" width="45%" />
 </p>
-file:///home/eren/Resimler/image-enc-1.png
 
 ---
 
