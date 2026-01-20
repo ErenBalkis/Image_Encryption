@@ -10,7 +10,6 @@ Supported Algorithms:
 - Vernam Cipher (One-Time Pad)
 - Hill Cipher (Matrix-based encryption)
 
-Author: Senior Python Developer & Cryptography Expert
 """
 
 import streamlit as st
