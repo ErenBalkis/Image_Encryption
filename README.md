@@ -50,8 +50,8 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/image-encryption-tool.git](https://github.com/your-username/image-encryption-tool.git)
-cd image-encryption-tool
+git clone [https://github.com/ErenBalkis/Image_Encryption.git](https://github.com/ErenBalkis/Image_Encryption.git)
+cd Image_Encryption
 
 ### 2. Install Dependencies
 
